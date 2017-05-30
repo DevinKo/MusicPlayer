@@ -7,7 +7,7 @@ The decision to choose this project presents my ability to program efficiently i
 
 The software is appropriately tested using JUnit. Positive, negative, and edge test cases were primarily used to test functionality.
 
-[[https://github.com/DevinKo/MusicPlayer/blob/master/GUIView.png|alt=octocat]]
+![alt text](https://github.com/DevinKo/MusicPlayer/blob/master/GUIView.png)
 
 Presentation of the music player GUI designed with the Spring library.
 
